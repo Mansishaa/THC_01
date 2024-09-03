@@ -13,5 +13,5 @@
 | *SEXO*          | Sexo de la persona fallecida por Covid-19                                              |
 
 ## Resultados
-https://mansishaa.github.io/no/
+https://mansishaa.github.io/THC_01/
 
