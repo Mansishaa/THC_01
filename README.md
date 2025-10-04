@@ -1,4 +1,3 @@
-# Tarea 1
 # Fallecimientos por COVID-19 durante el 2021
 
 ## 📝 Descripción de las Variables
